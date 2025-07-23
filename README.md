@@ -4,28 +4,29 @@ This interactive Power BI dashboard analyzes road accident data from the years 2
 
 🧠 Key Features
 
-- 📊 KPI Cards:
+📊 KPI Cards:
   - Total Casualties & Total Accidents. (Current Year, i.e. 2022)
   - Year-over-Year (YoY) comparison.
   - Fatality-based breakdown.
 
-- 📅 Time-Based Analysis:
+📅 Time-Based Analysis:
   - Monthly accident trends. (2022 vs 2021)
   - Casualties by Day vs Night. (which is bascially the Light Conditions)
   - Urban vs Rural distribution.
 
-- 🚗 Cause & Category Analysis:
+🚗 Cause & Category Analysis:
   - Casualties by Accident Severity
   - Casualties by Road Type & Vehicle Type
   - Accidents by Junction Control
 
-- 🗺️ Geographic View:
+🗺️ Geographic View:
   - State-wise Accident Mapping
   - Location-wise Total Accidents
 
-- 🎛️ Interactive Slicers:
-  - Road Surface Conditions
-  - Weather Conditions
+🧭 Slicers Used
+- Road Surface Condition – Helps identify accident patterns under dry, wet, snowy, or icy surfaces.
+- Weather Conditions – Filters visuals based on clear, rainy, foggy, or snowy conditions.
+
 
 All charts are dynamic and interconnected to enable deep data exploration.
 
@@ -56,7 +57,7 @@ The original dataset was preprocessed inside Power BI using Power Query Editor. 
 
 🖼️ Dashboard Preview
 
-[Road Accident Dashboard](https://drive.google.com/uc?export=view&id=1GhGiy0vlarFZ0WCOgEoxvMPeynuiFyr5)
+👉 [Road Accident Dashboard](https://drive.google.com/uc?export=view&id=1GhGiy0vlarFZ0WCOgEoxvMPeynuiFyr5)
 
 
 📥 How to Use
