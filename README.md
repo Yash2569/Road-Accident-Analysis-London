@@ -52,8 +52,10 @@ The original dataset was preprocessed inside Power BI using Power Query Editor. 
 - DAX (for KPIs and calculations)
 - Power Query (for data cleaning)
 - Custom Icons & Visual Design
-- Figma
 
+🎨 Design Tool Used: [Figma]
+
+The background design of the Power BI dashboard was created using Figma. This allowed for a clean, modern, and visually appealing layout that enhances the overall user experience within the dashboard.
 
 🖼️ Dashboard Preview
 
